@@ -73,7 +73,7 @@ planetDescription(planet)
 
 Did you see "There are 67 moons orbiting Mars." in your console?
 
-Something's wrong here! There are only two planets orbiting Mars. If you tell Neil DeGrasse Tyson that there are 67 moons orbiting Mars, he won't be impressed at all! You need to fix this, before he can see your program!
+Something's wrong here! There are only two moons orbiting Mars. If you tell Neil DeGrasse Tyson that there are 67 moons orbiting Mars, he won't be impressed at all! You need to fix this, before he can see your program!
 
 ## Functions and Multiple Arguments
 
@@ -138,3 +138,5 @@ planetDescription(planet, numberOfMoons: moons)
 Now that's impressive! Play around with functions that take multiple arguments a while until you are really comfortable with them. There are six more planets in our solar system that you can use in your own examples!
 
 <a href='https://learn.co/lessons/FunctionsMultipleArg' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-funcMultipleArg-readme'>Functions and Multiple Arguments</a> on Learn.co and start learning to code for free.</p>

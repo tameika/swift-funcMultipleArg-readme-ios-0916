@@ -3,18 +3,20 @@
 ![Neil](http://i.imgur.com/mFxZvkH.jpg?1)
 > For me, I am driven by two main philosophies: know more today about the world than I knew yesterday and lessen the suffering of others. You'd be surprised how far that gets you. ~[Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 
+## Overview 
+
+In this lesson, we'll create functions that contain multiple arguments. 
+
 ## Learning Objectives
 
-* Explain that a function is a self-contained chunk of code that performs a specific task. A function should do one thing and one thing well.
-* Explain that a function has a name that identifies what it does, and that name is used to "call" the function to perform its task when needed.
-* Create functions that contain multiple arguments
-
+* Explain the benefit of creating a function that takes in multiple arguments
+* Write and call functions that take in multiple arguments
 
 ## Functions and Arguments
 
-In the last lesson, you learned how to create your own functions to keep self-contained chunks of code in one place, and call them as often as you want. You even learned how to create a function that takes an argument, so you can generalize its behavior a bit. Hopefully you saw how useful functions can be when writing code in Swift, but now you're about to see how they can be even _more_ useful.
+We create functions to keep self-contained chunks of code in one place, and call them as often as we want.Functions can take in an argument and so we can generalize its behavior a bit. Let's see how functions can be even _more_ useful.
 
-Let's start, though, by reviewing how you create functions.
+Let's review how you create functions.
 
 Here's your goal: Write a function that will print the string "There are &lt;number&gt; moons orbiting &lt;planet&gt;." This will let you show off to our friend Neil DeGrasse Tyson how much you know about astronomy, _and_ write some Swift code in the meantime. Start by proving how much you know about Jupiter (hint: Jupiter has _67_ moons).
 
